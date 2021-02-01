@@ -5,11 +5,11 @@ Home: https://github.com/thombashi/releasecmd
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/releasecmd-feedstock/blob/master/LICENSE.txt)
 
 Summary: releasecmd is a release subcommand for setup.py (setuptools.setup). the subcommand create a git tag and push, and upload packages to PyPI.
 
-
+Development: https://github.com/thombashi/releasecmd
 
 Current build status
 ====================
