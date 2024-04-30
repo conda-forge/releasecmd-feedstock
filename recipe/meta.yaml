@@ -1,5 +1,5 @@
 {% set name = "releasecmd" %}
-{% set version = "0.10.3" %}
+{% set version = "0.10.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 725fb130b575d121e07b837fcb2439e961b49c48e85d34a30e010e961eb6cf57
+  sha256: 9f5ab60fe4d152983c7f1cf29f6e3588b53b4a4bc42dc218b8ac4fe9cf401b21
 
 build:
   number: 0
